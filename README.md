@@ -1,0 +1,2 @@
+# CH2EN_Sublime-Plugin
+Sublime_test划词中文转英文工具插件，可用于函数或变量名快速中转英，调用百度翻译API
